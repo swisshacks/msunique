@@ -1,11 +1,13 @@
-# Microsoft / Unique Challenge
-# [Descriptive Title of the Challenge]
+# Microsoft / Unique Challenge - AI Innovation in Finance
+# Hacking the Metrics: Decoding Annual Report Dynamics and Cross-Sector Comparison
 
 Case Introduction:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque dapibus, tortor in feugiat varius, sem purus aliquet quam, vel volutpat lorem nibh eu lacus. Donec massa ligula, auctor vitae erat eget, vulputate sagittis nisl. Praesent iaculis, lectus ut volutpat interdum, eros odio vestibulum eros, eget porta tellus lectus vitae massa.
+Problem: Business analysts struggle to extract meaningful insights from extensive annual reports, making sector-wide comparison and trend analysis a cumbersome process.
 
-Morbi vitae diam at diam pellentesque tempor. Vivamus porttitor turpis quis felis accumsan, ut imperdiet dui tincidunt. Aenean a est dapibus, dictum velit at, eleifend erat. Proin ut faucibus dolor. Vestibulum pulvinar magna at consectetur posuere. Sed in dolor id enim tempus malesuada. Pellentesque nec dignissim erat, ut feugiat turpis.
+This challenge is not just a showcase of technical prowess but a crucible for innovative solutions that can reshape how financial analysis is done. We aim to foster ideas that could be integrated into our product roadmap, revolutionizing the way our customers engage with our tools and services. The goal is to create a tool that not only serves UNIQUE AG but also has the potential to be adopted by Microsoft's broader partner and customer base, thereby enhancing the financial analysis ecosystem.
+Our product team is eager to discover new ideas and innovative contributions that could influence our strategic thinking and product development. We look forward to seeing how these insights can shape the future of our offerings and enhance the way customers interact with our technology.
+
 
 ## The Pitch:
 
