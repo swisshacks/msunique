@@ -28,7 +28,8 @@ Insert Pitchdeck here
 
 ## Deep Dive Slides:
 
-[Avery3659-UniversalEtiketten.pdf](https://github.com/user-attachments/files/15673958/Avery3659-UniversalEtiketten.pdf)
+
+![Uploading Brigitta-2.jpg…]()
 
 Insert Deep Dive Slides here
 
