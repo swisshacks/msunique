@@ -28,6 +28,8 @@ Insert Pitchdeck here
 
 ## Deep Dive Slides:
 
+[Avery3659-UniversalEtiketten.pdf](https://github.com/user-attachments/files/15673958/Avery3659-UniversalEtiketten.pdf)
+
 Insert Deep Dive Slides here
 
 ## Further Information:
