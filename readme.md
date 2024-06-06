@@ -28,8 +28,8 @@ Insert Pitchdeck here
 
 ## Deep Dive Slides:
 
+![image](https://github.com/swisshacks/msunique/assets/169249646/9812db61-baf0-4529-908f-0671d5eebdd3)
 
-![Uploading Brigitta-2.jpg…]()
 
 Insert Deep Dive Slides here
 
