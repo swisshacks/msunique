@@ -24,7 +24,9 @@ Participants are expected to present their solutions in a dynamic and engaging f
 
 ## The Pitch:
 
-Insert Pitchdeck here
+<div align="center">
+  <iframe src="https://www.loom.com/embed/3919271c5cc14ef5a1d91dbf8b023887" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ## Deep Dive Slides:
 
