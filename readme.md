@@ -24,9 +24,7 @@ Participants are expected to present their solutions in a dynamic and engaging f
 
 ## The Pitch:
 
-<div align="center">
-  <iframe src="https://www.loom.com/embed/3919271c5cc14ef5a1d91dbf8b023887" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
+[Watch the Pitch Video on Loom](https://www.loom.com/share/3919271c5cc14ef5a1d91dbf8b023887?sid=0acefc58-d3b6-4931-8ab7-784b12a1eaab)
 
 ## Deep Dive Slides:
 
