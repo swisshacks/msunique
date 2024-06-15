@@ -48,8 +48,8 @@ The primary technology stack for this challenge is based on Azure compute and se
 
 ## Point of Contact:
 
-Pascal Hauri Ph.D., Data Scientist, Unique AG, pascal@unique.ch
-Fabian Schläpfer Ph.D., Data Scientist, Unique AG 
+* Pascal Hauri Ph.D., Data Scientist, Unique AG, pascal@unique.ch
+* Fabian Schläpfer Ph.D., Data Scientist, Unique AG 
 
 ## Price: 
 The winning team will be granted an exclusive opportunity to present their prototype in front of the C-level executives at Unique AG, providing a unique platform to showcase their innovation and potential impact on the industry. Following the presentation, a networking apéro will be organized, offering a valuable chance for the team to engage in discussions, receive feedback, and connect personally with the company's top leadership in a relaxed and informal setting. This experience not only highlights the recognition of the team's hard work but also opens doors for future opportunities and collaborations.
