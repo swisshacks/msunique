@@ -36,7 +36,7 @@ Insert further information here
 
 ## Resources:
 
-The primary technology stack for this challenge is based on Azure compute and services provided by Microsoft, including access to LLMs like GPT-4 for data analysis and interpretation, as well as document parsing services for extracting information from reports. While these Microsoft technologies form the backbone of the challenge's tech infrastructure, participants are encouraged to integrate other technologies and tools as they see fit to enhance their solutions. 
+The primary technology stack for this challenge is based on Azure compute and services provided by Microsoft, including access to LLMs like GPT-4o for data analysis and interpretation. While these Microsoft technologies form the backbone of the challenge's tech infrastructure, participants are encouraged to integrate other technologies and tools as they see fit to enhance their solutions. 
 
 ## Judging Criteria:
 
@@ -48,7 +48,7 @@ The primary technology stack for this challenge is based on Azure compute and se
 
 ## Point of Contact:
 
-* Pascal Hauri Ph.D., Data Scientist, Unique AG, pascal@unique.ch
+* Pascal Hauri Ph.D., Data Scientist, Unique AG
 * Fabian Schläpfer Ph.D., Data Scientist, Unique AG 
 
 ## Price: 
