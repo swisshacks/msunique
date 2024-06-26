@@ -28,11 +28,11 @@ Participants are expected to present their solutions in a dynamic and engaging f
 
 ## Deep Dive Slides:
 
-Insert Deep Dive Slides here
+[Insert Deep Dive Slides here](https://github.com/swisshacks/msunique/blob/main/Hackathon%202024_Deep%20Dive%20Presentation.pdf)
 
 ## Further Information:
 
-Insert further information here 
+gpt-4o is deployed in six regions guaranteeing high consumption throughput.
 
 ## Resources:
 
