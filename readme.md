@@ -32,11 +32,11 @@ Participants are expected to present their solutions in a dynamic and engaging f
 
 ## Further Information:
 
-gpt-4o is deployed in six regions guaranteeing high consumption throughput.
+gpt-4o is deployed in six regions guaranteeing high consumption throughput. Additionally, there will be a Discord channel for our teams where we can exchange ideas, ask questions, or report issues. We will try to answer all questions during the hackathon. [Join the Discord channel](https://discord.gg/DzPVsnYakP).
 
 ## Resources:
 
-The primary technology stack for this challenge is based on Azure compute and services provided by Microsoft, including access to LLMs like GPT-4o for data analysis and interpretation. While these Microsoft technologies form the backbone of the challenge's tech infrastructure, participants are encouraged to integrate other technologies and tools as they see fit to enhance their solutions. 
+The primary technology stack for this challenge is based on Azure compute and services provided by Microsoft, including access to GPT-4o for data analysis and interpretation. While these Microsoft technologies form the backbone of the challenge's tech infrastructure, participants are encouraged to integrate other technologies and tools as they see fit to enhance their solutions. 
 
 ## Judging Criteria:
 
@@ -48,8 +48,8 @@ The primary technology stack for this challenge is based on Azure compute and se
 
 ## Point of Contact:
 
-* Pascal Hauri Ph.D., Data Scientist, Unique AG
-* Fabian Schläpfer Ph.D., Data Scientist, Unique AG 
+* Pascal Hauri PhD, Data Scientist, Unique AG
+* Fabian Schläpfer PhD, Data Scientist, Unique AG 
 
 ## Price: 
 The winning team will be granted an exclusive opportunity to present their prototype in front of the C-level executives at Unique AG, providing a unique platform to showcase their innovation and potential impact on the industry. Following the presentation, a networking apéro will be organized, offering a valuable chance for the team to engage in discussions, receive feedback, and connect personally with the company's top leadership in a relaxed and informal setting. This experience not only highlights the recognition of the team's hard work but also opens doors for future opportunities and collaborations.
