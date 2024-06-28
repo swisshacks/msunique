@@ -48,7 +48,7 @@ The primary technology stack for this challenge is based on Azure compute and se
 
 ## Point of Contact:
 
-* Pascal Hauri PhD, Data Scientist, Unique AG
+* Pascal Hauri PhD, Data Scientist, Unique AG [linkedIn](https://www.linkedin.com/in/pascalhauri/)
 * Fabian Schläpfer PhD, Data Scientist, Unique AG 
 
 ## Price: 
