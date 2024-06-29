@@ -32,7 +32,7 @@ Participants are expected to present their solutions in a dynamic and engaging f
 
 ## Further Information:
 
-gpt-4o is deployed in six regions guaranteeing high consumption throughput. Additionally, there will be a Discord channel for our teams where we can exchange ideas, ask questions, or report issues. We will try to answer all questions during the hackathon. [Join the Discord channel](https://discord.gg/DzPVsnYakP).
+gpt-4o is deployed in six regions guaranteeing high consumption throughput. Additionally, there will be a Discord channel for our teams where we can exchange ideas, ask questions, or report issues. We will try to answer all questions during the hackathon. [Join the Discord channel](https://discord.gg/8JKBvhU7).
 
 ## Resources:
 
